@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="80ac9d28-07a1-4081-aa41-732f90575121" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YHzsKfDx22qoG2pr7U9fulTwLJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.bridgelabz.java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.javaTest.givenNullMood_shouldReturnNull">
+    <configuration name="javaTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;javaTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="javaTest.givenBadMoode_shouldReturnBad" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;javaTest.givenBadMoode_shouldReturnBad&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="javaTest.givenMoodeAnalyzer_shouldReturnHappy" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;javaTest.givenMoodeAnalyzer_shouldReturnHappy&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="javaTest.givenMoodeAnalyzer_shouldReturn_Happy" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;javaTest.givenMoodeAnalyzer_shouldReturn_Happy&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="javaTest.givenNullMood_shouldReturnNull" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;javaTest.givenNullMood_shouldReturnNull&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.javaTest.givenNullMood_shouldReturnNull" />
+        <item itemvalue="Gradle.javaTest" />
+        <item itemvalue="Gradle.javaTest.givenBadMoode_shouldReturnBad" />
+        <item itemvalue="Gradle.javaTest.givenMoodeAnalyzer_shouldReturnHappy" />
+        <item itemvalue="Gradle.javaTest.givenMoodeAnalyzer_shouldReturn_Happy" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="80ac9d28-07a1-4081-aa41-732f90575121" name="Default Changelist" comment="" />
+      <created>1582614513670</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582614513670</updated>
+      <workItem from="1582614519583" duration="4750000" />
+      <workItem from="1582694869425" duration="2645000" />
+      <workItem from="1582707952768" duration="1210000" />
+      <workItem from="1582779698258" duration="2156000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="803" y="264" width="374" height="584" key="#com.intellij.ide.util.MemberChooser" timestamp="1582615380452">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="803" y="264" width="374" height="584" key="#com.intellij.ide.util.MemberChooser/70.27.1850.1053@70.27.1850.1053" timestamp="1582615380452" />
+    <state width="1804" height="367" key="GridCell.Tab.0.bottom" timestamp="1582783403043">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1804" height="367" key="GridCell.Tab.0.bottom/70.27.1850.1053@70.27.1850.1053" timestamp="1582783403043" />
+    <state width="1804" height="367" key="GridCell.Tab.0.center" timestamp="1582783403043">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1804" height="367" key="GridCell.Tab.0.center/70.27.1850.1053@70.27.1850.1053" timestamp="1582783403043" />
+    <state width="1804" height="367" key="GridCell.Tab.0.left" timestamp="1582783403042">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1804" height="367" key="GridCell.Tab.0.left/70.27.1850.1053@70.27.1850.1053" timestamp="1582783403042" />
+    <state width="1804" height="367" key="GridCell.Tab.0.right" timestamp="1582783403043">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1804" height="367" key="GridCell.Tab.0.right/70.27.1850.1053@70.27.1850.1053" timestamp="1582783403043" />
+    <state x="766" y="336" width="446" height="447" key="chooseDestDirectoryDialog" timestamp="1582614943857">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="766" y="336" width="446" height="447" key="chooseDestDirectoryDialog/70.27.1850.1053@70.27.1850.1053" timestamp="1582614943857" />
+    <state x="651" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1582779724628">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="651" y="380" key="com.intellij.ide.util.TipDialog/70.27.1850.1053@70.27.1850.1053" timestamp="1582779724628" />
+    <state x="640" y="121" width="710" height="864" key="find.popup" timestamp="1582638718451">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="640" y="121" width="710" height="864" key="find.popup/70.27.1850.1053@70.27.1850.1053" timestamp="1582638718451" />
+    <state width="600" height="424" key="javadoc.popup" timestamp="1582638701460">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="600" height="424" key="javadoc.popup/70.27.1850.1053@70.27.1850.1053" timestamp="1582638701460" />
+    <state x="658" y="272" width="672" height="678" key="search.everywhere.popup" timestamp="1582615759363">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="658" y="272" width="672" height="678" key="search.everywhere.popup/70.27.1850.1053@70.27.1850.1053" timestamp="1582615759363" />
+  </component>
+</project>

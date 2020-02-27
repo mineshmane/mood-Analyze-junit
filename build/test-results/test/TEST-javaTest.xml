@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="javaTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-02-27T05:59:35" hostname="user-Vostro-3583" time="0.003">
+  <properties/>
+  <testcase name="givenNullMood_shouldReturnNull" classname="javaTest" time="0.003"/>
+  <system-out><![CDATA[HAPPY
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
