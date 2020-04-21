@@ -1,7 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="80ac9d28-07a1-4081-aa41-732f90575121" name="Default Changelist" comment="" />
+    <list default="true" id="80ac9d28-07a1-4081-aa41-732f90575121" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bridgelabz/java/MoodAnalyzerFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/javaTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/javaTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/javaTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/javaTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/default-package.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/default-package.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-javaTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-javaTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/javaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/javaTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,6 +33,16 @@
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view />
+      </state>
+    </system>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -50,19 +82,18 @@
       <recent name="com.bridgelabz.java" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.javaTest.givenNullMoodShould_ReturnException">
-    <configuration name="javaTest.givenBadMoode_shouldReturnBad" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+  <component name="RunManager" selected="Gradle.javaTest.givenMoodAnalyserClass_WhenProper_ShouldReturnObject">
+    <configuration name="javaTest.givenMoodAnalyserClass_WhenProper_ShouldReturnObject" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;javaTest.givenBadMoode_shouldReturnBad&quot;" />
+        <option name="scriptParameters" value="--tests &quot;javaTest.givenMoodAnalyserClass_WhenProper_ShouldReturnObject&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
         <option name="taskNames">
           <list>
-            <option value=":cleanTest" />
             <option value=":test" />
           </list>
         </option>
@@ -71,18 +102,17 @@
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="javaTest.givenMood_returnNull" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="javaTest.givenMoodAnalyser_WhenProper_ShouldReturnObject" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;javaTest.givenMood_returnNull&quot;" />
+        <option name="scriptParameters" value="--tests &quot;javaTest.givenMoodAnalyser_WhenProper_ShouldReturnObject&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
         <option name="taskNames">
           <list>
-            <option value=":cleanTest" />
             <option value=":test" />
           </list>
         </option>
@@ -110,18 +140,17 @@
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="javaTest.givenNullMood_shouldReturnNull" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="javaTest.givenNullMoodThrowsException" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;javaTest.givenNullMood_shouldReturnNull&quot;" />
+        <option name="scriptParameters" value="--tests &quot;javaTest.givenNullMoodThrowsException&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
         <option name="taskNames">
           <list>
-            <option value=":cleanTest" />
             <option value=":test" />
           </list>
         </option>
@@ -151,11 +180,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.javaTest.givenMoodAnalyserClass_WhenProper_ShouldReturnObject" />
+        <item itemvalue="Gradle.javaTest.givenMoodAnalyser_WhenProper_ShouldReturnObject" />
+        <item itemvalue="Gradle.javaTest.givenNullMoodThrowsException" />
         <item itemvalue="Gradle.javaTest.givenNullMoodShould_ReturnException" />
         <item itemvalue="Gradle.javaTest.givenNullMoodshouldReturnException" />
-        <item itemvalue="Gradle.javaTest.givenNullMood_shouldReturnNull" />
-        <item itemvalue="Gradle.javaTest.givenMood_returnNull" />
-        <item itemvalue="Gradle.javaTest.givenBadMoode_shouldReturnBad" />
       </list>
     </recent_temporary>
   </component>
@@ -186,7 +215,7 @@
       <workItem from="1584597390690" duration="601000" />
       <workItem from="1586440698674" duration="2894000" />
       <workItem from="1587215735258" duration="654000" />
-      <workItem from="1587416228809" duration="6989000" />
+      <workItem from="1587416228809" duration="17292000" />
     </task>
     <servers />
   </component>
@@ -202,38 +231,42 @@
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
     <state x="803" y="264" width="374" height="584" key="#com.intellij.ide.util.MemberChooser/70.27.1850.1053@70.27.1850.1053" timestamp="1587421138267" />
-    <state width="1804" height="258" key="GridCell.Tab.0.bottom" timestamp="1587424942241">
+    <state x="748" y="417" width="494" height="279" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1587501579924">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
-    <state width="1804" height="258" key="GridCell.Tab.0.bottom/70.27.1850.1053@70.27.1850.1053" timestamp="1587424942241" />
-    <state width="1804" height="258" key="GridCell.Tab.0.center" timestamp="1587424942240">
+    <state x="748" y="417" width="494" height="279" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/70.27.1850.1053@70.27.1850.1053" timestamp="1587501579924" />
+    <state width="1804" height="258" key="GridCell.Tab.0.bottom" timestamp="1587504564655">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
-    <state width="1804" height="258" key="GridCell.Tab.0.center/70.27.1850.1053@70.27.1850.1053" timestamp="1587424942240" />
-    <state width="1804" height="258" key="GridCell.Tab.0.left" timestamp="1587424942239">
+    <state width="1804" height="258" key="GridCell.Tab.0.bottom/70.27.1850.1053@70.27.1850.1053" timestamp="1587504564655" />
+    <state width="1804" height="258" key="GridCell.Tab.0.center" timestamp="1587504564653">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
-    <state width="1804" height="258" key="GridCell.Tab.0.left/70.27.1850.1053@70.27.1850.1053" timestamp="1587424942239" />
-    <state width="1804" height="258" key="GridCell.Tab.0.right" timestamp="1587424942240">
+    <state width="1804" height="258" key="GridCell.Tab.0.center/70.27.1850.1053@70.27.1850.1053" timestamp="1587504564653" />
+    <state width="1804" height="258" key="GridCell.Tab.0.left" timestamp="1587504564652">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
-    <state width="1804" height="258" key="GridCell.Tab.0.right/70.27.1850.1053@70.27.1850.1053" timestamp="1587424942240" />
-    <state width="1804" height="340" key="GridCell.Tab.1.bottom" timestamp="1582980780785">
+    <state width="1804" height="258" key="GridCell.Tab.0.left/70.27.1850.1053@70.27.1850.1053" timestamp="1587504564652" />
+    <state width="1804" height="258" key="GridCell.Tab.0.right" timestamp="1587504564654">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
-    <state width="1804" height="340" key="GridCell.Tab.1.bottom/70.27.1850.1053@70.27.1850.1053" timestamp="1582980780785" />
-    <state width="1804" height="340" key="GridCell.Tab.1.center" timestamp="1582980780784">
+    <state width="1804" height="258" key="GridCell.Tab.0.right/70.27.1850.1053@70.27.1850.1053" timestamp="1587504564654" />
+    <state width="1804" height="340" key="GridCell.Tab.1.bottom" timestamp="1587501588261">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
-    <state width="1804" height="340" key="GridCell.Tab.1.center/70.27.1850.1053@70.27.1850.1053" timestamp="1582980780784" />
-    <state width="1804" height="340" key="GridCell.Tab.1.left" timestamp="1582980780784">
+    <state width="1804" height="340" key="GridCell.Tab.1.bottom/70.27.1850.1053@70.27.1850.1053" timestamp="1587501588261" />
+    <state width="1804" height="340" key="GridCell.Tab.1.center" timestamp="1587501588260">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
-    <state width="1804" height="340" key="GridCell.Tab.1.left/70.27.1850.1053@70.27.1850.1053" timestamp="1582980780784" />
-    <state width="1804" height="340" key="GridCell.Tab.1.right" timestamp="1582980780784">
+    <state width="1804" height="340" key="GridCell.Tab.1.center/70.27.1850.1053@70.27.1850.1053" timestamp="1587501588260" />
+    <state width="1804" height="340" key="GridCell.Tab.1.left" timestamp="1587501588260">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
-    <state width="1804" height="340" key="GridCell.Tab.1.right/70.27.1850.1053@70.27.1850.1053" timestamp="1582980780784" />
+    <state width="1804" height="340" key="GridCell.Tab.1.left/70.27.1850.1053@70.27.1850.1053" timestamp="1587501588260" />
+    <state width="1804" height="340" key="GridCell.Tab.1.right" timestamp="1587501588261">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1804" height="340" key="GridCell.Tab.1.right/70.27.1850.1053@70.27.1850.1053" timestamp="1587501588261" />
     <state x="766" y="336" width="446" height="447" key="chooseDestDirectoryDialog" timestamp="1582614943857">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
